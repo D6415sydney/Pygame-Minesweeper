@@ -1,0 +1,18 @@
+Release versions are tested and have been proven to work.
+* needs file renaming, unsupported
+
+1*
+2*
+3*
+4*
+5A_bugfix2
+6A
+6A_bugfix1
+7
+7A
+8
+8A
+8B
+9
+
+We recommend you use Version 9
